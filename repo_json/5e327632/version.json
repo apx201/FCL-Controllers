@@ -1,15 +1,19 @@
 {
   "author": "WuQing_Tick12OwO",
-  "description": "把一些反人类的给移到旁边去了，让你的水晶更加流畅。",
+  "description": "更新了主界面 又把重生锚和萤石的位置改好了一点 若有不习惯 可以下载上一个版本",
   "history": [
+    {
+      "versionCode": 0,
+      "versionName": ""
+    },
     {
       "versionCode": 1,
       "versionName": "1.01"
     }
   ],
   "latest": {
-    "versionCode": 2,
-    "versionName": "1.11"
+    "versionCode": 3,
+    "versionName": "1.21"
   },
-  "screenshot": 1
+  "screenshot": 2
 }
